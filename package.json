@@ -1,0 +1,38 @@
+{
+  "name": "gulp-cdn-url-append",
+  "version": "1.0.0",
+  "description": "Find and replace URLs on your CSS.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tkorakas/gulp-cdn-url-append.git"
+  },
+  "keywords": [
+    "CDN",
+    "Gulp",
+    "RegEx",
+    "Path",
+    "URL",
+    "CSS"
+  ],
+  "author": "Thanos Korakas <thanoskorakas@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tkorakas/gulp-cdn-url-append/issues"
+  },
+  "homepage": "https://github.com/tkorakas/gulp-cdn-url-append#readme",
+  "dependencies": {
+    "md5": "^2.2.1",
+    "through2": "^2.0.3",
+    "gulp-util": "^3.0.8"
+  },
+  "devDependencies": {
+    "chai": "^4.1.1",
+    "event-stream": "^3.3.4",
+    "gulp": "^3.9.1",
+    "mocha": "^3.5.0"
+  }
+}

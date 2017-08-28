@@ -1,0 +1,7 @@
+body {
+    background-image: url('/images/fake-image.jpg');
+}
+
+.fake-class {
+    background-image: url("/images/fake-image-2.jpg");
+}
