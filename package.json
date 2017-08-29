@@ -25,9 +25,10 @@
   },
   "homepage": "https://github.com/tkorakas/gulp-cdn-url-append#readme",
   "dependencies": {
+    "gulp-util": "^3.0.8",
     "md5": "^2.2.1",
-    "through2": "^2.0.3",
-    "gulp-util": "^3.0.8"
+    "replacestream": "^4.0.2",
+    "through2": "^2.0.3"
   },
   "devDependencies": {
     "chai": "^4.1.1",
